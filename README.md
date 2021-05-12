@@ -12,3 +12,5 @@ Algorithm note, 算法笔记
 003-permute, 全排列: [_003_permute](https://github.com/xjh093/Algorithm/blob/main/_003_permute.swift)
 
 004-solveNQueuens, N皇后: [_004_solveNQueuens](https://github.com/xjh093/Algorithm/blob/main/_004_solveNQueuens.swift)
+
+005-minDepth, 二叉树最小高度: [_005_minDepth](https://github.com/xjh093/Algorithm/blob/main/_005_minDepth.swift)
