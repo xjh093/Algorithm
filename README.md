@@ -16,3 +16,5 @@ Algorithm note, 算法笔记
 005-minDepth, 二叉树最小高度: [_005_minDepth](https://github.com/xjh093/Algorithm/blob/main/_005_minDepth.swift)
 
 006-openLock, 打开密码锁: [_006_openLock](https://github.com/xjh093/Algorithm/blob/main/_006_openLock.swift)
+
+007-binarySearch, [_007_binarySearch](https://github.com/xjh093/Algorithm/blob/main/_007_%20binarySearch.swift)
