@@ -20,3 +20,5 @@ Algorithm note, 算法笔记
 007-binarySearch, 二分查找, [_007_binarySearch](https://github.com/xjh093/Algorithm/blob/main/_007_%20binarySearch.swift)
 
 008-minWindow, 最小覆盖子串, [_008_minWindow](https://github.com/xjh093/Algorithm/blob/main/_008_minWindow.swift)
+
+009-permutationInString, 字符串排列,[_009_permutationInString](https://github.com/xjh093/Algorithm/blob/main/_009_permutationInString.swift)
