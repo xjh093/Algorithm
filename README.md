@@ -26,3 +26,5 @@ Algorithm note, 算法笔记
 010-findAllAnagrams, 字母异位词: [_010_findAllAnagrams](https://github.com/xjh093/Algorithm/blob/main/_010_findAllAnagrams.swift)
 
 011-lengthOfLongestSubstring, 最长无重复子串: [_011_lengthOfLongestSubstring](https://github.com/xjh093/Algorithm/blob/main/_011_lengthOfLongestSubstring.swift)
+
+012-buyAndSellStock1, 股票买卖, 只买卖一次: [_012_buyAndSellStock1](https://github.com/xjh093/Algorithm/blob/main/_012_buyAndSellStock1.swift)
