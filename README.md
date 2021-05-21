@@ -30,3 +30,6 @@ Algorithm note, 算法笔记
 012-buyAndSellStock1, 股票买卖, 只买卖一次: [_012_buyAndSellStock1](https://github.com/xjh093/Algorithm/blob/main/_012_buyAndSellStock1.swift)
 
 013-buyAndSellStock2, 股票买卖, 多次买卖: [_013_buyAndSellStock2](https://github.com/xjh093/Algorithm/blob/main/_013_buyAndSellStock2.swift)
+
+014-rob, 打家劫舍: [_014_rob](https://github.com/xjh093/Algorithm/blob/main/_014_rob.swift)
+
