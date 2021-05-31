@@ -35,5 +35,6 @@ Algorithm note, 算法笔记
 
 015-rob2, 打家劫舍: [_015_rob2](https://github.com/xjh093/Algorithm/blob/main/_015_rob2.swift)
 
+016-removeCoveredIntervals, 删除被覆盖的区间: [_016_removeCoveredIntervals](https://github.com/xjh093/Algorithm/blob/main/_016_removeCoveredIntervals.swift)
 
 
