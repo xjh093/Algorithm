@@ -38,3 +38,5 @@ Algorithm note, 算法笔记
 016-removeCoveredIntervals, 删除被覆盖的区间: [_016_removeCoveredIntervals](https://github.com/xjh093/Algorithm/blob/main/_016_removeCoveredIntervals.swift)
 
 017-merge, 区间合并: [_017_merge](https://github.com/xjh093/Algorithm/blob/main/_017_merge.swift)
+
+018-intervalIntersection, 区间交集: [_018_intervalIntersection](https://github.com/xjh093/Algorithm/blob/main/_018_intervalIntersection.swift)
