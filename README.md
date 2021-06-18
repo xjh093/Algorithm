@@ -42,3 +42,7 @@ Algorithm note, 算法笔记
 018-intervalIntersection, 区间交集: [_018_intervalIntersection](https://github.com/xjh093/Algorithm/blob/main/_018_intervalIntersection.swift)
 
 019-nSum, nSum: [_019_nSum](https://github.com/xjh093/Algorithm/blob/main/_019_nSum.swift)
+
+020-nSum, invertTree: [_20_ invertTree](https://github.com/xjh093/Algorithm/blob/main/_20_ invertTree.swift)
+
+
