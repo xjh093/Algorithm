@@ -45,4 +45,5 @@ Algorithm note, 算法笔记
 
 020-nSum, invertTree: [_20_invertTree](https://github.com/xjh093/Algorithm/blob/main/_20_invertTree.swift)
 
+021-canPartition, 子集背包问题: [_021_canPartition](https://github.com/xjh093/Algorithm/blob/main/_021_canPartition.swift)
 
